@@ -11,8 +11,12 @@ Weather App Auto is a Flutter application that automatically fetches real-time w
 - Robust error handling for location permission denials and API failures.
 
 ## Screenshots
-![Auto Location](screenshots/auto_locate.jpg)
-![Manual Location](screenshots/manual_locate.jpg)
+
+### Auto Location
+<img src="screenshots/auto_locate.jpg" alt="Auto Location" width="300"/>
+
+### Manual Location
+<img src="screenshots/manual_locate.jpg" alt="Manual Location" width="300"/>
 
 ## Setup
 1. Clone the repository:
